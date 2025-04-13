@@ -7,6 +7,13 @@ engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, future=True , autoflush=False, bind=engine)
 Base = declarative_base()
 
+try:
+    with engine.connect() as connection:
+        print("Bağlantı başarılı!")
+except Exception as e:
+    print(f"Bağlantı hatası: {e}")
+
+
 def get_db():
     db = SessionLocal()
     try:
