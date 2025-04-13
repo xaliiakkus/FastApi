@@ -1,0 +1,44 @@
+# Python tarafından oluşturulan derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam dizinleri
+venv/
+env/
+.env
+.env.*
+
+# İşletim sistemi tarafından oluşturulan dosyalar
+.DS_Store
+Thumbs.db
+
+# IDE ve editör konfigürasyon dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test ve kapsam raporları
+.coverage
+*.cover
+*.py,cover
+htmlcov/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.pytest_cache/
+
+# Log dosyaları
+*.log
+
+# Veritabanı dosyaları
+*.sqlite3
+*.db
+
+# Paketleme çıktıları
+dist/
+build/
+*.egg-info/
