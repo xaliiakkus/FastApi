@@ -7,5 +7,5 @@ Bu proje FastAPI, SQLAlchemy, PostgreSQL ve Alembic kullanılarak geliştirilmi�
 ```bash
 poetry install
 poetry shell
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 ```
