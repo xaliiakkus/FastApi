@@ -14,9 +14,9 @@ Railway'de **MongoDB servisi ekleme**. Sadece su variable'lari FastAPI servisine
 
 ```
 MONGODB_URI=mongodb+srv://KULLANICI:SIFRE@cluster0.okyk1jy.mongodb.net/?appName=Cluster0
-MONGODB_DB=app
+MONGODB_DB=trafficbuddy
 MONGODB_USERS_COLLECTION=users
-SECRET_KEY=uzun-rastgele-bir-deger
+JWT_SECRET=Tr4ff1cBuddy_Pr0_L1c3ns3_H31md4l_2024!
 METRICS_API_KEY=opsiyonel-guvenlik-anahtari
 ```
 
@@ -76,7 +76,7 @@ railway init
 railway variables set MONGODB_URI="mongodb+srv://xaliakkus_db_user:34Patron47%26@cluster0.okyk1jy.mongodb.net/?appName=Cluster0"
 railway variables set MONGODB_DB="trafficbuddy"
 railway variables set MONGODB_USERS_COLLECTION="users"
-railway variables set SECRET_KEY="uzun-rastgele-bir-deger"
+railway variables set JWT_SECRET="Tr4ff1cBuddy_Pr0_L1c3ns3_H31md4l_2024!"
 
 # Deploy
 railway up

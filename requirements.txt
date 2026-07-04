@@ -1,5 +1,4 @@
 fastapi
 uvicorn
 pymongo
-python-jose[cryptography]
 email-validator

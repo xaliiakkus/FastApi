@@ -3,7 +3,7 @@ import os
 from pymongo import MongoClient
 from pymongo.database import Database
 
-MONGODB_DB = os.getenv("MONGODB_DB", "app")
+MONGODB_DB = os.getenv("MONGODB_DB", "trafficbuddy")
 USERS_COLLECTION = os.getenv("MONGODB_USERS_COLLECTION", "users")
 
 _client: MongoClient | None = None

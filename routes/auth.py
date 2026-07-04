@@ -1,11 +1,12 @@
+import base64
 import hashlib
 import hmac
+import json
 import os
-import secrets
+import time
 from datetime import datetime, timedelta
 
 from fastapi import APIRouter, HTTPException, Request
-from jose import jwt
 from pydantic import BaseModel, EmailStr, Field
 
 from db.db_setup import get_users_collection
@@ -13,9 +14,13 @@ from metrics_store import metrics_store
 
 router = APIRouter()
 
-SECRET_KEY = os.getenv("SECRET_KEY", "secret_key")
-ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_HOURS = int(os.getenv("ACCESS_TOKEN_EXPIRE_HOURS", "24"))
+JWT_SECRET = os.getenv(
+    "JWT_SECRET",
+    "Tr4ff1cBuddy_Pr0_L1c3ns3_H31md4l_2024!",
+)
+JWT_ALGORITHM = "HS256"
+JWT_EXPIRY_HOURS = int(os.getenv("JWT_EXPIRY_HOURS", "168"))
+FREE_TRIAL_MINUTES = int(os.getenv("FREE_TRIAL_MINUTES", "30"))
 
 
 class LoginData(BaseModel):
@@ -26,30 +31,57 @@ class LoginData(BaseModel):
 class RegisterData(BaseModel):
     username: str = Field(min_length=3, max_length=32)
     email: EmailStr
-    password: str = Field(min_length=4, max_length=128)
+    password: str = Field(min_length=6, max_length=128)
 
 
-def hash_password(password: str) -> tuple[str, str]:
-    password_salt = secrets.token_hex(32)
-    password_hash = hashlib.sha256((password_salt + password).encode("utf-8")).hexdigest()
-    return password_hash, password_salt
+def hash_password(password: str, salt: str | None = None) -> tuple[str, str]:
+    if salt is None:
+        salt = os.urandom(32).hex()
+    password_hash = hashlib.pbkdf2_hmac(
+        "sha256",
+        password.encode("utf-8"),
+        salt.encode("utf-8"),
+        100000,
+    ).hex()
+    return salt, password_hash
 
 
-def verify_password(password: str, password_hash: str, password_salt: str) -> bool:
-    data = (password_salt + password).encode("utf-8")
-    computed = hashlib.sha256(data).hexdigest()
-    return hmac.compare_digest(computed, password_hash)
+def verify_password(password: str, password_salt: str, password_hash: str) -> bool:
+    _, computed_hash = hash_password(password, password_salt)
+    return hmac.compare_digest(computed_hash, password_hash)
+
+
+def _base64url_encode(data: bytes | str) -> str:
+    if isinstance(data, str):
+        data = data.encode("utf-8")
+    return base64.urlsafe_b64encode(data).rstrip(b"=").decode("utf-8")
 
 
 def create_token(user: dict) -> str:
+    header = {"alg": JWT_ALGORITHM, "typ": "JWT"}
+    now = time.time()
     payload = {
-        "user_id": str(user["_id"]),
-        "username": user["username"],
-        "email": user.get("email"),
-        "license_type": user.get("license_type"),
-        "exp": datetime.utcnow() + timedelta(hours=ACCESS_TOKEN_EXPIRE_HOURS),
+        "sub": str(user.get("_id", "")),
+        "username": user.get("username", ""),
+        "email": user.get("email", ""),
+        "license_type": user.get("license_type", "free"),
+        "iat": int(now),
+        "exp": int(now + JWT_EXPIRY_HOURS * 3600),
+        "chk": hashlib.sha256(
+            f"{user.get('username', '')}{user.get('license_type', 'free')}{JWT_SECRET}".encode()
+        ).hexdigest()[:16],
     }
-    return jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)
+
+    header_b64 = _base64url_encode(json.dumps(header, separators=(",", ":")))
+    payload_b64 = _base64url_encode(json.dumps(payload, separators=(",", ":")))
+    message = f"{header_b64}.{payload_b64}"
+    signature = hmac.new(
+        JWT_SECRET.encode("utf-8"),
+        message.encode("utf-8"),
+        hashlib.sha256,
+    ).digest()
+
+    return f"{message}.{_base64url_encode(signature)}"
 
 
 def serialize_user(user: dict) -> dict:
@@ -60,6 +92,7 @@ def serialize_user(user: dict) -> dict:
         "license_type": user.get("license_type"),
         "license_expiry": user.get("license_expiry"),
         "visit_credit": user.get("visit_credit"),
+        "send_count": user.get("send_count"),
         "is_active": user.get("is_active"),
         "is_banned": user.get("is_banned"),
         "login_count": user.get("login_count"),
@@ -68,16 +101,24 @@ def serialize_user(user: dict) -> dict:
     }
 
 
+def get_client_ip(request: Request) -> str | None:
+    forwarded = request.headers.get("X-Forwarded-For")
+    if forwarded:
+        return forwarded.split(",")[0].strip()
+    return request.client.host if request.client else None
+
+
 @router.post("/login", tags=["auth"])
 def login(data: LoginData, request: Request):
     users = get_users_collection()
-    query = {
-        "$or": [
-            {"username": data.username},
-            {"email": data.username},
-        ]
-    }
-    user = users.find_one(query)
+    user = users.find_one(
+        {
+            "$or": [
+                {"username": data.username},
+                {"email": data.username},
+            ]
+        }
+    )
 
     if not user:
         metrics_store.record_login(False)
@@ -93,14 +134,14 @@ def login(data: LoginData, request: Request):
 
     if not verify_password(
         data.password,
-        user.get("password_hash", ""),
         user.get("password_salt", ""),
+        user.get("password_hash", ""),
     ):
         metrics_store.record_login(False)
         raise HTTPException(status_code=401, detail="Invalid username or password")
 
     now = datetime.utcnow()
-    client_ip = request.client.host if request.client else None
+    client_ip = get_client_ip(request)
 
     users.update_one(
         {"_id": user["_id"]},
@@ -134,9 +175,9 @@ def register(data: RegisterData, request: Request):
             raise HTTPException(status_code=409, detail="Username already exists")
         raise HTTPException(status_code=409, detail="Email already exists")
 
-    password_hash, password_salt = hash_password(data.password)
+    password_salt, password_hash = hash_password(data.password)
     now = datetime.utcnow()
-    client_ip = request.client.host if request.client else None
+    client_ip = get_client_ip(request)
 
     user_doc = {
         "username": username,
@@ -144,16 +185,18 @@ def register(data: RegisterData, request: Request):
         "password_hash": password_hash,
         "password_salt": password_salt,
         "license_type": "free",
-        "license_expiry": None,
+        "license_expiry": now + timedelta(minutes=FREE_TRIAL_MINUTES),
         "created_at": now,
         "last_login": None,
         "login_count": 0,
         "is_active": True,
-        "visit_credit": 0,
         "is_banned": False,
+        "ban_reason": None,
         "hwid": None,
-        "last_ip": None,
+        "last_ip": client_ip,
         "reg_ip": client_ip,
+        "send_count": 2,
+        "visit_credit": 200,
     }
 
     result = users.insert_one(user_doc)
