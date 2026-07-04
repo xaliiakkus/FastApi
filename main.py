@@ -47,6 +47,8 @@ def root():
     return {
         "service": "login-api",
         "docs": "/docs",
+        "register": "/api/register",
+        "login": "/api/login",
         "metrics": "/api/metrics",
         "logs": "/api/logs",
     }

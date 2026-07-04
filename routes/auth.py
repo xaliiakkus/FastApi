@@ -1,11 +1,12 @@
 import hashlib
 import hmac
 import os
+import secrets
 from datetime import datetime, timedelta
 
 from fastapi import APIRouter, HTTPException, Request
 from jose import jwt
-from pydantic import BaseModel
+from pydantic import BaseModel, EmailStr, Field
 
 from db.db_setup import get_users_collection
 from metrics_store import metrics_store
@@ -20,6 +21,18 @@ ACCESS_TOKEN_EXPIRE_HOURS = int(os.getenv("ACCESS_TOKEN_EXPIRE_HOURS", "24"))
 class LoginData(BaseModel):
     username: str
     password: str
+
+
+class RegisterData(BaseModel):
+    username: str = Field(min_length=3, max_length=32)
+    email: EmailStr
+    password: str = Field(min_length=4, max_length=128)
+
+
+def hash_password(password: str) -> tuple[str, str]:
+    password_salt = secrets.token_hex(32)
+    password_hash = hashlib.sha256((password_salt + password).encode("utf-8")).hexdigest()
+    return password_hash, password_salt
 
 
 def verify_password(password: str, password_hash: str, password_salt: str) -> bool:
@@ -106,4 +119,47 @@ def login(data: LoginData, request: Request):
     return {
         "token": create_token(user),
         "user": serialize_user(user),
+    }
+
+
+@router.post("/register", tags=["auth"])
+def register(data: RegisterData, request: Request):
+    users = get_users_collection()
+    username = data.username.strip()
+    email = str(data.email).strip().lower()
+
+    existing = users.find_one({"$or": [{"username": username}, {"email": email}]})
+    if existing:
+        if existing.get("username") == username:
+            raise HTTPException(status_code=409, detail="Username already exists")
+        raise HTTPException(status_code=409, detail="Email already exists")
+
+    password_hash, password_salt = hash_password(data.password)
+    now = datetime.utcnow()
+    client_ip = request.client.host if request.client else None
+
+    user_doc = {
+        "username": username,
+        "email": email,
+        "password_hash": password_hash,
+        "password_salt": password_salt,
+        "license_type": "free",
+        "license_expiry": None,
+        "created_at": now,
+        "last_login": None,
+        "login_count": 0,
+        "is_active": True,
+        "visit_credit": 0,
+        "is_banned": False,
+        "hwid": None,
+        "last_ip": None,
+        "reg_ip": client_ip,
+    }
+
+    result = users.insert_one(user_doc)
+    user_doc["_id"] = result.inserted_id
+
+    return {
+        "token": create_token(user_doc),
+        "user": serialize_user(user_doc),
     }
