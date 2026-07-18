@@ -6,7 +6,8 @@ import os
 import time
 from datetime import datetime, timedelta
 
-from fastapi import APIRouter, HTTPException, Request
+from fastapi import APIRouter, Depends, HTTPException, Request
+from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from pydantic import BaseModel, EmailStr, Field
 
 from db.db_setup import get_users_collection
@@ -21,6 +22,15 @@ JWT_SECRET = os.getenv(
 JWT_ALGORITHM = "HS256"
 JWT_EXPIRY_HOURS = int(os.getenv("JWT_EXPIRY_HOURS", "168"))
 FREE_TRIAL_MINUTES = int(os.getenv("FREE_TRIAL_MINUTES", "30"))
+
+# is_admin alani olmayan eski kayitlar icin env uzerinden admin listesi
+ADMIN_USERNAMES = {
+    name.strip()
+    for name in os.getenv("ADMIN_USERNAMES", "heimdal").split(",")
+    if name.strip()
+}
+
+_bearer_scheme = HTTPBearer(auto_error=False)
 
 
 class LoginData(BaseModel):
@@ -82,6 +92,74 @@ def create_token(user: dict) -> str:
     ).digest()
 
     return f"{message}.{_base64url_encode(signature)}"
+
+
+def _base64url_decode(data: str) -> bytes:
+    padding = 4 - len(data) % 4
+    if padding != 4:
+        data += "=" * padding
+    return base64.urlsafe_b64decode(data)
+
+
+def decode_token(token: str) -> dict:
+    """TrafficBuddy client ile ayni JWT formatini dogrular (imza + exp + chk)."""
+    parts = token.split(".")
+    if len(parts) != 3:
+        raise HTTPException(status_code=401, detail="Invalid token")
+
+    header_b64, payload_b64, signature_b64 = parts
+    message = f"{header_b64}.{payload_b64}"
+    expected_sig = hmac.new(
+        JWT_SECRET.encode("utf-8"),
+        message.encode("utf-8"),
+        hashlib.sha256,
+    ).digest()
+    if not hmac.compare_digest(signature_b64, _base64url_encode(expected_sig)):
+        raise HTTPException(status_code=401, detail="Invalid token signature")
+
+    try:
+        payload = json.loads(_base64url_decode(payload_b64))
+    except (ValueError, UnicodeDecodeError):
+        raise HTTPException(status_code=401, detail="Invalid token payload")
+
+    if payload.get("exp", 0) < time.time():
+        raise HTTPException(status_code=401, detail="Token expired")
+
+    expected_chk = hashlib.sha256(
+        f"{payload.get('username', '')}{payload.get('license_type', 'free')}{JWT_SECRET}".encode()
+    ).hexdigest()[:16]
+    if payload.get("chk") != expected_chk:
+        raise HTTPException(status_code=401, detail="Token integrity check failed")
+
+    return payload
+
+
+def get_current_user(
+    credentials: HTTPAuthorizationCredentials | None = Depends(_bearer_scheme),
+) -> dict:
+    """Bearer token'i dogrular ve kullaniciyi DB'den taze halde dondurur."""
+    if credentials is None:
+        raise HTTPException(
+            status_code=401,
+            detail="Missing Bearer token",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+
+    payload = decode_token(credentials.credentials)
+    user = get_users_collection().find_one({"username": payload.get("username")})
+    if not user:
+        raise HTTPException(status_code=401, detail="User not found")
+    if user.get("is_banned"):
+        raise HTTPException(status_code=403, detail="Account is banned")
+    if user.get("is_active") is False:
+        raise HTTPException(status_code=403, detail="Account is inactive")
+    return user
+
+
+def require_admin(user: dict = Depends(get_current_user)) -> dict:
+    if user.get("is_admin") is True or user.get("username") in ADMIN_USERNAMES:
+        return user
+    raise HTTPException(status_code=403, detail="Admin access required")
 
 
 def serialize_user(user: dict) -> dict:
@@ -161,6 +239,12 @@ def login(data: LoginData, request: Request):
         "token": create_token(user),
         "user": serialize_user(user),
     }
+
+
+@router.get("/me", tags=["auth"])
+def me(user: dict = Depends(get_current_user)):
+    """Token gecerliyse guncel kullanici bilgisini dondurur."""
+    return serialize_user(user)
 
 
 @router.post("/register", tags=["auth"])

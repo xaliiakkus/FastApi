@@ -1,0 +1,3325 @@
+[
+  {
+    "_id": "9",
+    "site": {
+      "id": 9,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi",
+            "altbaslik": "Deneme Bonusu Firsati",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi",
+            "altbaslik": "Deneme Bonusu Firsati",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "site": {
+      "id": 11,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#222233",
+            "dark": "#111122",
+            "light": "#444455"
+          },
+          "background": {
+            "main": "#000000",
+            "card": "#111111",
+            "alt": "#222222"
+          },
+          "text": {
+            "main": "#ffffff",
+            "secondary": "#cccccc",
+            "muted": "#aaaaaa"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi Giriş",
+            "altbaslik": "Yeni Uye Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi Giriş",
+            "altbaslik": "Yeni Uye Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "site": {
+      "id": 5,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 16,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi Giriş",
+            "altbaslik": "Yatirimsiz Baslangic Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 9,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 17,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi Giriş",
+            "altbaslik": "Yatirimsiz Baslangic Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 16,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 12,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 12,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "site": {
+      "id": 4,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "favicon.ico",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#021A54",
+            "dark": "#CE2626",
+            "light": "#313E17"
+          },
+          "background": {
+            "main": "#5E0006",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#FFDE42",
+            "muted": "#547792"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Canlı Destek",
+            "altbaslik": "Deneme Bonusu Firsati",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 16,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Canlı Destek",
+            "altbaslik": "Deneme Bonusu Firsati",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 12,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 5,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 5,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "site": {
+      "id": 10,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi Giriş",
+            "altbaslik": "Yeni Uye Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi Giriş",
+            "altbaslik": "Yeni Uye Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "site": {
+      "id": 2,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Canlı Destek",
+            "altbaslik": "Ilk Uyelik Avantaji",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Canlı Destek",
+            "altbaslik": "Ilk Uyelik Avantaji",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "site": {
+      "id": 7,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Giriş",
+            "altbaslik": "Kayitsiz Tanitim Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Giriş",
+            "altbaslik": "Kayitsiz Tanitim Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "1",
+    "site": {
+      "id": 1,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi",
+            "altbaslik": "Hos Geldin Bonusu Firsati",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Resmi",
+            "altbaslik": "Hos Geldin Bonusu Firsati",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "site": {
+      "id": 6,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "favicon.ico",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#406093",
+            "dark": "#D97A2B",
+            "light": "#D62828"
+          },
+          "background": {
+            "main": "#281C59",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#FFDE42",
+            "muted": "#547792"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 23,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Giriş",
+            "altbaslik": "Yeni Uye Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "site": {
+      "id": 8,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Güncel",
+            "altbaslik": "Uye Acilis Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Güncel",
+            "altbaslik": "Uye Acilis Kampanyasi",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "site": {
+      "id": 3,
+      "baslik": "21Casino Güncel Giriş ve 10.000 TL Bonus",
+      "renk": "#2BAE66FF",
+      "favicon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/default.png",
+      "menu1": "2",
+      "menu2": "3",
+      "menu3": "5",
+      "menu4": "https://t.me/heimdal_vou",
+      "sekil": "tablo",
+      "mteams": "",
+      "colors": {
+        "colors": {
+          "primary": {
+            "main": "#22C55E",
+            "dark": "#16A34A",
+            "light": "#4ADE80"
+          },
+          "background": {
+            "main": "#0F1F17",
+            "card": "#1A2F23",
+            "alt": "#264035"
+          },
+          "text": {
+            "main": "#FFFFFF",
+            "secondary": "#BBBBBB",
+            "muted": "#888888"
+          }
+        }
+      },
+      "noticatid": 1,
+      "tablosplash": 1,
+      "sweepstakes": {
+        "b": [
+          19962124,
+          19962127
+        ]
+      },
+      "games": {
+        "groups": [
+          {
+            "category_id": 1,
+            "order": 2,
+            "verificationimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/verification.png",
+            "games": [
+              {
+                "name": "Aviator",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/aviator.jpg",
+                "storytext": "Yüksek çarpanlı crash oyunu. Binlerce oyuncunun tercihi.",
+                "sticky": false
+              },
+              {
+                "name": "Sweet Bonanza",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/sweet.jpg",
+                "storytext": "En popüler slot oyunu. Yüksek RTP ve büyük kazanç fırsatları.",
+                "sticky": true
+              },
+              {
+                "name": "Gates of Olympus",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesof.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/gatesofolympus-story.jpg",
+                "storytext": "Pragmatic Play'in en çok oynanan oyunu. Mega kazançlar seni bekliyor.",
+                "sticky": true
+              },
+              {
+                "name": "Big Bass",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bigbass-story.jpg",
+                "storytext": "Balıkçı reis olma zamanı! Büyük balık yakala, cüzdanı doldur!",
+                "sticky": true
+              },
+              {
+                "name": "Starlight Princess",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlight.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/starlightprincess-story.jpg",
+                "storytext": "Prenses yıldızları topluyor, sen de altınları topla!",
+                "sticky": false
+              },
+              {
+                "name": "Dog House",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse.webp",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/doghouse-story.jpg",
+                "storytext": "RTP %96.51, 675x çarpan. büyük ödüller getiriyor.",
+                "sticky": false
+              }
+            ]
+          },
+          {
+            "category_id": 1,
+            "order": 1,
+            "games": [
+              {
+                "name": "Canlı Blackjack",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/blackjack.jpg",
+                "storytext": "Gerçek krupiyelerle canlı blackjack. Profesyonel oyun deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Canlı Rulet",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/lightning-roulette.jpg",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/roulette.jpg",
+                "storytext": "Lightning Rulet ile yüksek çarpanlar. Canlı krupiye deneyimi.",
+                "sticky": true
+              },
+              {
+                "name": "Crazy Time",
+                "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime.gif",
+                "storyimage": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crazytime-story.jpg",
+                "storytext": "En popüler canlı oyun. Büyük ödül fırsatları.",
+                "sticky": false
+              }
+            ]
+          }
+        ]
+      },
+      "WinnersID": 1,
+      "WheelID": 1,
+      "icons": {
+        "footer-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/footer.webp",
+        "giveaway-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/giveaway.webp",
+        "header-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/header.webp",
+        "home-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/home.webp",
+        "plus-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pngtree-green-3d-plus-sign-png-image_12380506.png",
+        "star-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/star.webp",
+        "telegram-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/telegram.webp",
+        "wheel-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/wheel.webp",
+        "win-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/win.webp",
+        "crown-icon": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/crown.webp",
+        "pin": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin1.svg",
+        "pin2": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/pin2.svg"
+      },
+      "banners": [
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        },
+        {
+          "image": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/reklam-ver.gif",
+          "href": "https://t.me/heimdal_vou"
+        }
+      ],
+      "pinned1": 14,
+      "pinnedPopup": 101,
+      "description": "21Casino güncel giriş adresi, 10.000 TL bonus fırsatı, kampanya detayları ve popüler casino oyunları hakkında güncel bilgiler.",
+      "searchPlaceholder": "21Casino içinde ara…",
+      "gamesStripTitle": "Popüler oyunlar",
+      "homeExtraTitle": "",
+      "homeExtraBody": "",
+      "homeExtraLinks": [],
+      "premiumCount": 1
+    },
+    "categories": [
+      {
+        "id": 1,
+        "title": "21Casino Güncel Giriş",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 1,
+        "boards": [
+          {
+            "id": 14,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Güncel",
+            "altbaslik": "Yeni Kayit Promosyonu",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 1,
+            "slider": "2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "21Casino Bonus Fırsatları",
+        "subtitle": "21Casino resmi bağlantısına ulaşmak için tıklayın.",
+        "icon": "fa-user",
+        "order": 2,
+        "boards": [
+          {
+            "id": 15,
+            "baslik": "10.000 TL",
+            "siteadi": "21Casino Güncel",
+            "altbaslik": "Yeni Kayit Promosyonu",
+            "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+            "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+            "site_id": 3,
+            "sira": 14,
+            "catid": 23,
+            "slider": "2"
+          }
+        ]
+      }
+    ],
+    "texts": {
+      "header": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "header",
+          "durum": 1
+        }
+      ],
+      "footer": [
+        {
+          "id": 14,
+          "baslik": "21Casino 10.000 TL Bonus",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "tip": "footer",
+          "durum": 1
+        }
+      ]
+    },
+    "popups": {
+      "popup1": [
+        {
+          "id": 101,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus101.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 102,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus102.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 103,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus103.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 104,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus104.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 1,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ],
+      "popup2": [
+        {
+          "id": 105,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus105.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 106,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/bonus106.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        },
+        {
+          "id": 107,
+          "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/10bonus.jpg",
+          "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+          "popuporder": 2,
+          "durum": 1,
+          "button_text": "Bonusu Al"
+        }
+      ]
+    },
+    "big": [
+      {
+        "id": 14,
+        "resimurl": "https://heimdal-seo-s3.s3.eu-north-1.amazonaws.com/deneme-bonusu-veren-siteler/21casiono.jpg",
+        "url": "https://prod.trk21.com/click?offer=FF8W03FTCXKQ&uid=zkaSzWt3",
+        "groupp": 1,
+        "durum": 1
+      }
+    ]
+  }
+]

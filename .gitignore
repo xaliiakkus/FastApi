@@ -3,13 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Sanal ortam dizinleri
-venv/
-env/
-.env
-.env.*
-!.env.example
-
 # İşletim sistemi tarafından oluşturulan dosyalar
 .DS_Store
 Thumbs.db
